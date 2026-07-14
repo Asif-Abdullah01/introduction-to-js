@@ -44,9 +44,9 @@ console.log(typeof name)
  
 // variable name has to be in one word (can not contain any space)
 
-cosnt her_phone_number = 22332123; //snake case
-cosnt herPphoneNumber = 22332123; //camel case
-cosnt HerPhoneNumber = 22332123; //pascal case
+const her_phone_number = 22332123; //snake case
+const herPphoneNumber = 22332123; //camel case
+const HerPhoneNumber = 22332123; //pascal case
 
 // name cannot start with a number but number could be used anywhere
 
