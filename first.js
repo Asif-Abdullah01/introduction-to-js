@@ -33,3 +33,31 @@ console.log(isRich)
 console.log(typeof isRich)
 console.log(typeof price)
 console.log(typeof name)
+
+
+// variable name should be something meaningful (do not use shorthand)
+
+
+// can not use a keyword (reserved word)
+
+// const false = 'False'; //evabe deya jabe na
+ 
+// variable name has to be in one word (can not contain any space)
+
+cosnt her_phone_number = 22332123; //snake case
+cosnt herPphoneNumber = 22332123; //camel case
+cosnt HerPhoneNumber = 22332123; //pascal case
+
+// name cannot start with a number but number could be used anywhere
+
+
+// other than letter name can start with either ( _ or $) and can not use any other special character like *@#
+
+// variable name case sensitive
+
+
+
+
+
+
+
