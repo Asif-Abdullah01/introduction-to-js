@@ -59,5 +59,52 @@ const HerPhoneNumber = 22332123; //pascal case
 
 
 
+// ----------------------------------
+
+const num1 = 10;
+const num2 = 5;
+
+const firstName = "Asif "
+const lastName = "Abdullah"
+
+const fullName = firstName + lastName;
+
+console.log(fullName);
+
+const total = num1+num2;
+
+console.log(total)
+
+
+const number3 = '20'; 
+
+const number4 = parseInt (number3);
+
+console.log(num1+number4);
+
+
+const numberInt = parseInt('25.6')
+const numberFloat = parseFloat('25.6')
+const numberNew = parseInt('asdadsadsadsads22')
+
+console.log(numberInt)
+console.log(numberFloat)
+
+
+console.log(numberNew)
+
+
+
+const firstNum = 0.1;
+const secondNum = 0.2;
+
+
+const totalFloatNum = firstNum + secondNum;
+
+const totalFloatNumTwo = parseFloat(totalFloatNum.toFixed(2));
+
+console.log(totalFloatNumTwo);
+
+
 
 
